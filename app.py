@@ -124,7 +124,7 @@ if st.button("🔍 Prediksi"):
 # --- FOOTER ---
 st.markdown("""
 <hr style="border: 0.5px solid #ccc" />
-<div style='text-align: center; font-size: 13px; color: gray;'>
+<div style='text-align: center; font-size: 13px; color: black;'>
     Dibuat dengan ❤️ oleh Mushab Dzul dan Zidan Nugraha
 </div>
 """, unsafe_allow_html=True)
